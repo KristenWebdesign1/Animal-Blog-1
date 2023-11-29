@@ -18,18 +18,11 @@ font-family: cursive
     color:darkred;
     text-align: center;
     background-color: ghostwhite;
-    font-family: inherit;
+    font-family: cursive;
 }
 
 table, th, td {
   border: 20px solid red;
-    background-color: white;  
+    background-color: white;
     text-align: center;
-}
-
-.page{ 
-    text-align: center;
-    color: red;
-    font-size: 20px;
-    font-family: cursive
 }
