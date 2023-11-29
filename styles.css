@@ -1,0 +1,35 @@
+.title{
+    text-align: center;
+    color: indianred;
+    font-size: 100px;
+    background-color: ghostwhite;
+    font-family: cursive
+}
+
+.heading{   
+text-align: center;
+color: red;
+font-size: 60px;
+font-family: cursive
+}
+
+.p{
+    font-size: 20px;
+    color:darkred;
+    text-align: center;
+    background-color: ghostwhite;
+    font-family: inherit;
+}
+
+table, th, td {
+  border: 20px solid red;
+    background-color: white;  
+    text-align: center;
+}
+
+.page{ 
+    text-align: center;
+    color: red;
+    font-size: 20px;
+    font-family: cursive
+}
